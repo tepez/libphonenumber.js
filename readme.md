@@ -8,3 +8,5 @@
   * Paste the contents of closure.txt into the big textarea on the left side of the screen under the Compile button. Make sure you delete whatever text is already the textarea!
   * After you've pasted it press the Compile button
   * If everything works correctly, on the right side of the screen will be a freshly compiled PhoneFormat.js
+  
+Based on https://github.com/albeebe/phoneformat.js
