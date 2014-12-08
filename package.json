@@ -1,5 +1,5 @@
 {
-  "name": "libphonenumber.js",
+  "name": "libphonenumber",
   "version": "7.0.1",
   "description": "1. Copy to your clipboard, the contents of closure.txt at the top of this page",
   "main": "libphonenumber.js",
