@@ -1,0 +1,19 @@
+{
+  "name": "libphonenumber.js",
+  "version": "7.0.1",
+  "description": "1. Copy to your clipboard, the contents of closure.txt at the top of this page",
+  "main": "libphonenumber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tepez/libphonenumber.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tepez/libphonenumber.js/issues"
+  },
+  "homepage": "https://github.com/tepez/libphonenumber.js"
+}
